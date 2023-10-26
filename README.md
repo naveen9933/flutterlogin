@@ -1,10 +1,10 @@
-# login_in_page
+# flutter_login_in_page
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Login-Page created using Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
